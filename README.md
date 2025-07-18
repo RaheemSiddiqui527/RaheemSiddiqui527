@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Raheem Siddiqui (@siddiquiraheem527)
+# 👋 Hi, I'm Raheem Siddiqui (@RaheemSiddiqui527)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Enthusiast;UI%2FUX+Focused;Always+Learning" alt="Typing SVG" />
